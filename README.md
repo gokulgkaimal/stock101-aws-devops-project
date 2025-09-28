@@ -18,7 +18,7 @@ This repository documents my freelance Cloud & DevOps project for [Stock101.org]
 ---
 
 ## 📂 Repository Contents
-- `architecture/` → Infrastructure diagrams and workflow charts.
+
 - `screenshots/` → AWS console screenshots verifying the deployed services.
 - `docs/` → Experience letter, project write-up, troubleshooting notes.
 
