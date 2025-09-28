@@ -13,7 +13,7 @@ This repository documents my freelance Cloud & DevOps project for [Stock101.org]
 - **CloudFront (CDN)**: Integrated to deliver applications globally with HTTPS and low latency.
 - **EventBridge Scheduler**: Automated recurring tasks such as cleanup and maintenance using fixed-rate schedules.
 - **CloudWatch**: Implemented monitoring dashboards, alarms, and logs for proactive troubleshooting.
-- **Cost Optimization**: Applied strategies including Reserved Instances, EC2 right-sizing, and S3 Intelligent-Tiering.
+- **Cost Optimization**: Applied strategies including autoscaling rules, EC2 right-sizing, and S3 Intelligent-Tiering.
 
 ---
 
